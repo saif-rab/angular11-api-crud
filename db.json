@@ -1,0 +1,36 @@
+{
+  "restaurants": [
+    {
+      "id": 3,
+      "name": "baba ka Dhaba",
+      "address": "Hatia sector 15",
+      "email": "babakadhaba@hatia.com"
+    },
+    {
+      "name": "pizzahut",
+      "address": "gumla sectoruu 2",
+      "email": "pizzahut@gumla.com",
+      "id": 7
+    },
+    {
+      "name": "McD",
+      "address": "Ranchi",
+      "email": "mcd@ranchi.com",
+      "id": 8
+    },
+    {
+      "name": "madhuban",
+      "address": "booty more",
+      "email": "mb@ranchimerijaan.com",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "fjgvkfjgio",
+      "password": "kjdvjoh",
+      "email": "dksfjfiouv",
+      "id": 1
+    }
+  ]
+}
